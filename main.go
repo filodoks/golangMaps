@@ -17,3 +17,5 @@ func printMap(c map[string]string) {
 		fmt.Println("Hex code for", color, "is", hex)
 	}
 }
+
+// Go The Complete Developer’s Guide (Golang) - Udemy - 06
